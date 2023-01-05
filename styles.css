@@ -1,0 +1,136 @@
+
+body { 
+    text-align: center;
+    font-family: 'merri weather', sans-serif;
+}
+hr { 
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    height: 5px;
+    width: 5%;
+}
+h1 {
+    color: blue;
+    text-align: center;
+    width: 10%;
+    position: relative;
+    left: 550px;
+    font-size: 30px;
+}
+h2{
+    color: #11999E;
+    height: 50px;
+    width: 100%;
+    margin: 0 30px 0 auto;
+    font-style: oblique;
+}
+h3 {
+    color:#66BFBF;
+}
+#heading {
+    color: black;
+}
+.top{
+    background-color: aqua;
+}
+h2 {
+    margin-top: 10px;
+    margin-left: 0px;
+}
+.span{
+    text-decoration: underline;
+    background-color: blue;
+}
+table{
+    text-align: center;
+}
+.top-cloud{
+    position: relative;
+    left: 200px;
+    bottom: 100px;
+    padding-top: 200px;
+}
+.top1-cloud{
+    position: relative;
+    right: 400px;
+    bottom: 20px;
+}
+.contactdetails{
+    padding-top: 100px;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+      
+.contactdetails:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+.middle-cloud{
+    position:relative;
+    right: 400px;
+}
+.first-table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.second-table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.top-mountain{
+    position: relative;
+    left: 300px;
+    padding-bottom: 100px;
+}   
+.bottom1-cloud{
+    position: relative;
+    left: 500px;
+}
+.bottom-cloud{
+    position: relative;
+    right: 500px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.vijji{
+    border-radius: 50%;
+}
+.school{
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+    line-height: 2;
+}
+.games{
+    text-align: center;
+    margin-left: 20px;
+    line-height: 2;
+}
+.hello{
+    color: black;
+}
+.bottom{
+    background-color: #66BFBF;
+    
+}
